@@ -4,8 +4,8 @@ This project is a comprehensive full-stack food delivery web application inspire
 
 ### 🔹 Highlights
 
-✅ **Intuitive User Experience** – Features an interactive UI for browsing menus, placing orders, and tracking deliveries.
-✅ **Secure CI/CD Pipeline** – Automated DevOps workflows embedded with security scans and best practices.
-✅ **Containerized & Scalable** – Built for cloud environments using Docker and container orchestration.
-✅ **React Frontend** – Developed with Create React App and tailored for production readiness.
-✅ **Optimized for Deployment** – Comes with performance enhancements and security hardening out of the box.
+ **Intuitive User Experience** – Features an interactive UI for browsing menus, placing orders, and tracking deliveries.
+ **Secure CI/CD Pipeline** – Automated DevOps workflows embedded with security scans and best practices.
+ **Containerized & Scalable** – Built for cloud environments using Docker and container orchestration.
+ **React Frontend** – Developed with Create React App and tailored for production readiness.
+ **Optimized for Deployment** – Comes with performance enhancements and security hardening out of the box.
